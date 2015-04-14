@@ -1,0 +1,91 @@
+\begin{thebibliography}{10}
+
+\bibitem{agrawal1997efficient}
+D.~Agrawal, A.~El~Abbadi, A.~Singh, and T.~Yurek.
+\newblock Efficient view maintenance at data warehouses.
+\newblock In {\em ACM SIGMOD Record}, volume~26, pages 417--427. ACM, 1997.
+
+\bibitem{agrawal2009asynchronous}
+P.~Agrawal, A.~Silberstein, B.~F. Cooper, U.~Srivastava, and R.~Ramakrishnan.
+\newblock Asynchronous view maintenance for vlsd databases.
+\newblock In {\em Proceedings of the 2009 ACM SIGMOD International Conference
+  on Management of data}, pages 179--192. ACM, 2009.
+
+\bibitem{bry2002towards}
+F.~Bry and S.~Schaffert.
+\newblock Towards a declarative query and transformation language for xml and
+  semistructured data: Simulation unification.
+\newblock In {\em Logic Programming}, pages 255--270. Springer, 2002.
+
+\bibitem{galhardas:inria-00072476}
+H.~Galhardas, D.~Florescu, D.~Shasha, E.~Simon, and C.~Saita.
+\newblock {Declarative Data Cleaning : Language, Model, and Algorithms}.
+\newblock Research Report RR-4149, 2001.
+\newblock Projet CARAVEL.
+
+\bibitem{ilprints409}
+R.~Goldman, J.~McHugh, and J.~Widom.
+\newblock From semistructured data to xml: Migrating the lore data model and
+  query language.
+\newblock In {\em ACM SIGMOD Workshop on The Web and Databases ( WebDB 1999)},
+  1999.
+
+\bibitem{kandel2011wrangler}
+S.~Kandel, A.~Paepcke, J.~Hellerstein, and J.~Heer.
+\newblock Wrangler: Interactive visual specification of data transformation
+  scripts.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, pages 3363--3372. ACM, 2011.
+
+\bibitem{kandel2012profiler}
+S.~Kandel, R.~Parikh, A.~Paepcke, J.~M. Hellerstein, and J.~Heer.
+\newblock Profiler: Integrated statistical analysis and visualization for data
+  quality assessment.
+\newblock In {\em Proceedings of the International Working Conference on
+  Advanced Visual Interfaces}, pages 547--554. ACM, 2012.
+
+\bibitem{lakshmanan2001schemasql}
+L.~V. Lakshmanan, F.~Sadri, and S.~N. Subramanian.
+\newblock Schemasql: An extension to sql for multidatabase interoperability.
+\newblock {\em ACM Transactions on Database Systems (TODS)}, 26(4):476--519,
+  2001.
+
+\bibitem{lawley2006practical}
+M.~Lawley and J.~Steel.
+\newblock Practical declarative model transformation with tefkat.
+\newblock In {\em Satellite Events at the MoDELS 2005 Conference}, pages
+  139--150. Springer, 2006.
+
+\bibitem{rahm2000data}
+E.~Rahm and H.~H. Do.
+\newblock Data cleaning: Problems and current approaches.
+\newblock {\em IEEE Data Eng. Bull.}, 23(4):3--13, 2000.
+
+\bibitem{raman2001potter}
+V.~Raman and J.~M. Hellerstein.
+\newblock Potter's wheel: An interactive data cleaning system.
+\newblock In {\em VLDB}, volume~1, pages 381--390, 2001.
+
+\bibitem{tarau2009embedded}
+P.~Tarau.
+\newblock An embedded declarative data transformation language.
+\newblock In {\em Proceedings of the 11th ACM SIGPLAN conference on Principles
+  and practice of declarative programming}, pages 171--182. ACM, 2009.
+
+\bibitem{arniThesis}
+A.~M. Thrastarson.
+\newblock Managing updates and transformations in data sharing systems (m.sc
+  thesis), 2014.
+
+\bibitem{zhou2007lazy}
+J.~Zhou, P.-A. Larson, and H.~G. Elmongui.
+\newblock Lazy maintenance of materialized views.
+\newblock In {\em Proceedings of the 33rd international conference on Very
+  large data bases}, pages 231--242. VLDB Endowment, 2007.
+
+\bibitem{zhuge1995view}
+Y.~Zhuge, H.~Garcia-Molina, J.~Hammer, and J.~Widom.
+\newblock View maintenance in a warehousing environment.
+\newblock {\em ACM SIGMOD Record}, 24(2):316--327, 1995.
+
+\end{thebibliography}
